@@ -3,7 +3,7 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 
 [GitHub Project](https://github.com/users/Tianscar/projects/2)
 
-## ServiceProvider Interface
+## Interface
 |Repository|License|
 |---|---|
 |[Core](https://github.com/Tianscar/javasound-core)|GPL-2.0 with "Classpath" Exception|
