@@ -23,8 +23,8 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[Shorten](https://github.com/Tianscar/javasound-shorten)|SHN|OK|NIL|OK|BSD 3-Clause|
 |[Silk](https://github.com/Tianscar/javasound-silk)|SIL|NIL|NIL|NIL|BSD 2-Clause|
 |[Speex](https://github.com/Tianscar/javasound-speex)|SPX|OK|OK|OK|BSD 3-Clause|
-|[TTA](https://github.com/Tianscar/javasound-vorbis)|TTA|NIL|NIL|NIL|LGPL-3.0|
-|[Ogg Vorbis](https://github.com/Tianscar/javasound-vorbis)|OGG|OK|OK|OK|LGPL-2.0|
+|[TTA](https://github.com/Tianscar/javasound-tta)|TTA|NIL|NIL|NIL|LGPL-3.0|
+|[Vorbis](https://github.com/Tianscar/javasound-vorbis)|OGG VORBIS|OK|OK|OK|LGPL-2.0|
 |[WavPack](https://github.com/Tianscar/javasound-wavpack)|WV|WIP|OK|OK|BSD 3-Clause|
 |[WMA](https://github.com/Tianscar/javasound-wma)|WMA|NIL|NIL|NIL|LGPL-2.1|
 
