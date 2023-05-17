@@ -1,5 +1,5 @@
 # JavaSound ServiceProvider Collection
-A collection of projects working around JavaSound ServiceProvider interface. Mainly including audio codecs written in Java, with JavaSound ServiceProvider.
+A collection of projects working around JavaSound ServiceProvider interface. Mainly including audio codecs written in Java, with their JavaSound ServiceProvider.
 
 [GitHub Project](https://github.com/users/Tianscar/projects/2)
 
