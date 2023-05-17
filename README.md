@@ -15,9 +15,9 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[OpenAL](https://github.com/Tianscar/javasound-openal)|WIP|NIL|MIT|
 
 ## DSP
-|Repository|SPI|License|
-|---|---|---|
-|[Touch](https://github.com/Tianscar/javasound-touch)|NIL|LGPL-2.1|
+|Repository|Resampler|SPI|License|
+|---|---|---|---|
+|[Touch](https://github.com/Tianscar/javasound-touch)|NIL|NIL|LGPL-2.1|
 
 ## Codec
 |Repository|Supported formats|Decoder|Encoder|SPI|License|
@@ -39,6 +39,11 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[WMA](https://github.com/Tianscar/javasound-wma)|WMA|NIL|NIL|NIL|LGPL-2.1|
 
 ## Player
-|Project|Streaming|Pooled|CLI|GUI|License|
+|Repository|Streaming|Pooled|CLI|GUI|License|
 |---|---|---|---|---|---|
 [JAMPlayer](https://github.com/Tianscar/jamplayer)|WIP|WIP|NIL|NIL|Apache-2.0, GPL-3.0|
+
+## Other
+|Repository|Overview|Status|License|
+|---|---|---|---|
+[JME3-JavaSound](https://github.com/Tianscar/jme3-javasound)|Audio plugin for JMonkeyEngine based on JavaSound|WIP|MIT|
