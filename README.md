@@ -9,7 +9,12 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[Core](https://github.com/Tianscar/javasound-core)|GPL-2.0 with "Classpath" Exception|
 |[ResLoader](https://github.com/Tianscar/javasound-resloader)|MIT|
 
-## ServiceProvider
+## Device
+|Repository|Sampled|MIDI|License|
+|---|---|---|---|
+|[OpenAL](https://github.com/Tianscar/javasound-openal)|WIP|NIL|MIT|
+
+## Codec
 |Repository|Supported formats|Decoder|Encoder|SPI|License|
 |---|---|---|---|---|---|
 |[AAC](https://github.com/Tianscar/javasound-aac)|AAC, M4A AAC|OK|NIL|OK|Public Domain|
