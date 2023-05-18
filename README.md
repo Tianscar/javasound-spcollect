@@ -26,7 +26,7 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[ALAC](https://github.com/Tianscar/javasound-alac)|M4A ALAC|OK|NIL|OK|BSD 3-Clause|
 |[Monkey's Audio](https://github.com/Tianscar/javasound-ape)|APE, APL|OK|OK|OK|LGPL-2.0|
 |[CAF](https://github.com/Tianscar/javasound-caf)|CAF|NIL|NIL|NIL|MIT|
-|[FLAC](https://github.com/Tianscar/javasound-flac)|FLAC, OGG FLAC|WIP|WIP|OK|LGPL-2.1, Apache-2.0, BSD 3-Clause|
+|[FLAC](https://github.com/Tianscar/javasound-flac)|FLAC, OGG FLAC|WIP|WIP|OK|LGPL-2.1, Apache-2.0, Xiph.Org Variant of the BSD License|
 |[MP3](https://github.com/Tianscar/javasound-mp3)|MP2, MP3|OK|NIL|OK|LGPL-2.1|
 |[Musepack](https://github.com/Tianscar/javasound-mpc)|MPC|NIL|NIL|NIL|BSD 3-Clause|
 |[Opus](https://github.com/Tianscar/javasound-opus)|OPUS|WIP|WIP|NIL|MIT, BSD 2-Clause|
