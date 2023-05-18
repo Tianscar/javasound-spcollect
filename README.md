@@ -32,9 +32,9 @@ A collection of projects working around JavaSound ServiceProvider interface. Mai
 |[Opus](https://github.com/Tianscar/javasound-opus)|OPUS|WIP|WIP|NIL|MIT, BSD 2-Clause|
 |[Shorten](https://github.com/Tianscar/javasound-shorten)|SHN|OK|NIL|OK|BSD 3-Clause|
 |[Silk](https://github.com/Tianscar/javasound-silk)|SIL|NIL|NIL|NIL|BSD 2-Clause|
-|[Speex](https://github.com/Tianscar/javasound-speex)|SPX|OK|OK|OK|BSD 3-Clause|
+|[Speex](https://github.com/Tianscar/javasound-speex)|SPX|OK|OK|OK|Xiph.Org Variant of the BSD License|
 |[TTA](https://github.com/Tianscar/javasound-tta)|TTA|NIL|NIL|NIL|LGPL-3.0|
-|[Vorbis](https://github.com/Tianscar/javasound-vorbis)|OGG VORBIS|OK|OK|OK|LGPL-2.0, BSD 3-Clause|
+|[Vorbis](https://github.com/Tianscar/javasound-vorbis)|OGG VORBIS|OK|OK|OK|LGPL-2.0, Xiph.Org Variant of the BSD License|
 |[WavPack](https://github.com/Tianscar/javasound-wavpack)|WV|WIP|OK|OK|BSD 3-Clause|
 |[WMA](https://github.com/Tianscar/javasound-wma)|WMA|NIL|NIL|NIL|LGPL-2.1|
 
