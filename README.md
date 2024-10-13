@@ -1,3 +1,5 @@
+WARNING: THIS PROJECT IS NO LONGER MAINTAINED. MOVED TO: https://github.com/jseproject/
+
 # JavaSound ServiceProvider Collection
 A collection of projects working around JavaSound ServiceProvider interface. Mainly including audio codecs written in Java, with their JavaSound ServiceProvider.
 
